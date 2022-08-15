@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 4780e665157e46a4b98c7a67b52e65f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 705451584940577357
+    second: "rong bi\u1EC3n, san h\xF4_0"
+  - first:
+      213: 2695415725887833002
+    second: "rong bi\u1EC3n, san h\xF4_1"
+  - first:
+      213: -3080440404618233715
+    second: "rong bi\u1EC3n, san h\xF4_2"
+  - first:
+      213: -5111239348650585485
+    second: "rong bi\u1EC3n, san h\xF4_3"
+  - first:
+      213: -7594645124406370790
+    second: "rong bi\u1EC3n, san h\xF4_4"
+  - first:
+      213: -4079437120789408543
+    second: "rong bi\u1EC3n, san h\xF4_5"
+  - first:
+      213: 4997887361279332426
+    second: "rong bi\u1EC3n, san h\xF4_6"
+  - first:
+      213: -4616637467040999944
+    second: "rong bi\u1EC3n, san h\xF4_7"
+  - first:
+      213: -1233437922707480669
+    second: "rong bi\u1EC3n, san h\xF4_8"
+  - first:
+      213: 7463552074640521927
+    second: "rong bi\u1EC3n, san h\xF4_9"
+  - first:
+      213: -1749462514730564959
+    second: "rong bi\u1EC3n, san h\xF4_10"
+  - first:
+      213: 8927427444177447696
+    second: "rong bi\u1EC3n, san h\xF4_11"
+  - first:
+      213: -2431013289259184603
+    second: "rong bi\u1EC3n, san h\xF4_12"
+  - first:
+      213: -6191149150380831930
+    second: "rong bi\u1EC3n, san h\xF4_13"
+  - first:
+      213: -5889038882048280477
+    second: "rong bi\u1EC3n, san h\xF4_14"
+  - first:
+      213: -6871280414536440702
+    second: "rong bi\u1EC3n, san h\xF4_15"
+  - first:
+      213: -2532296793064986578
+    second: "rong bi\u1EC3n, san h\xF4_16"
+  - first:
+      213: -6384942932518751697
+    second: "rong bi\u1EC3n, san h\xF4_17"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_0"
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1660
+        width: 452
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d429e969a744ac900800000000000000
+      internalID: 705451584940577357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_1"
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1693
+        width: 538
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3cb8f525a086520800000000000000
+      internalID: 2695415725887833002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_2"
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1672
+        width: 379
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8838fad5c31045d0800000000000000
+      internalID: -3080440404618233715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_3"
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1604
+        width: 344
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372dea594ea3119b0800000000000000
+      internalID: -5111239348650585485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_4"
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1948
+        width: 428
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e1b9c5f766a9690800000000000000
+      internalID: -7594645124406370790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_5"
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1876
+        width: 180
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e41ecb6d8de267c0800000000000000
+      internalID: -4079437120789408543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_6"
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 1882
+        width: 843
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40187c33101c5540800000000000000
+      internalID: 4997887361279332426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_8"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1480
+        width: 382
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af568c8eb2f1eee0800000000000000
+      internalID: -1233437922707480669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_9"
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 563
+        width: 334
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caf39b711dd39760800000000000000
+      internalID: 7463552074640521927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_10"
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 1024
+        width: 917
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a28f95ac19a8b7e0800000000000000
+      internalID: -1749462514730564959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_11"
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 224
+        width: 542
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b254006f794eb70800000000000000
+      internalID: 8927427444177447696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_12"
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 502
+        width: 199
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ec3712b4e434ed0800000000000000
+      internalID: -2431013289259184603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_13"
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 460
+        width: 211
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bc61c56ae941aa0800000000000000
+      internalID: -6191149150380831930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_14"
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 970
+        width: 571
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3687c07965ee54ea0800000000000000
+      internalID: -5889038882048280477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_15"
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 252
+        width: 122
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284e47b5ede44a0a0800000000000000
+      internalID: -6871280414536440702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_16"
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 131
+        width: 826
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28208fbb797bdcd0800000000000000
+      internalID: -2532296793064986578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rong bi\u1EC3n, san h\xF4_17"
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 256
+        width: 536
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2234145b302467a0800000000000000
+      internalID: -6384942932518751697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "rong bi\u1EC3n, san h\xF4_1": 2695415725887833002
+      "rong bi\u1EC3n, san h\xF4_5": -4079437120789408543
+      "rong bi\u1EC3n, san h\xF4_8": -1233437922707480669
+      "rong bi\u1EC3n, san h\xF4_3": -5111239348650585485
+      "rong bi\u1EC3n, san h\xF4_0": 705451584940577357
+      "rong bi\u1EC3n, san h\xF4_4": -7594645124406370790
+      "rong bi\u1EC3n, san h\xF4_10": -1749462514730564959
+      "rong bi\u1EC3n, san h\xF4_11": 8927427444177447696
+      "rong bi\u1EC3n, san h\xF4_16": -2532296793064986578
+      "rong bi\u1EC3n, san h\xF4_17": -6384942932518751697
+      "rong bi\u1EC3n, san h\xF4_6": 4997887361279332426
+      "rong bi\u1EC3n, san h\xF4_14": -5889038882048280477
+      "rong bi\u1EC3n, san h\xF4_2": -3080440404618233715
+      "rong bi\u1EC3n, san h\xF4_15": -6871280414536440702
+      "rong bi\u1EC3n, san h\xF4_9": 7463552074640521927
+      "rong bi\u1EC3n, san h\xF4_13": -6191149150380831930
+      "rong bi\u1EC3n, san h\xF4_12": -2431013289259184603
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

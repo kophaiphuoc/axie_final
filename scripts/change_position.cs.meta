@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream:Assets/scripts/change_position.cs.meta
+guid: 55dacf6ce8209de45a0759b61d21d326
+=======
+guid: db2778f6d440c47ddacff25997d7c062
+>>>>>>> Stashed changes:Library/PackageCache/com.unity.2d.animation@7.0.5/Editor/SpriteLib/SpriteLibrarySourceAsset/SpriteLibrarySourceAssetImporter.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
